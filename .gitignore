@@ -1,3 +1,4 @@
+*.marko.js
 build
 static
 node_modules
