@@ -6,11 +6,14 @@
     {"path": "framework7/dist/css/framework7.ios.colors.css","slot":"ios-slot1"},
     {"path": "framework7/dist/css/framework7.material.css","slot":"material-slot1"},
     {"path": "framework7/dist/css/framework7.material.colors.css","slot":"material-slot1"},
+    {"path": "css/my-app-android.css","slot":"my-material-slot1"},
+    {"path": "css/my-app.css","slot":"my-material-slot1"},
+    {"path": "css/my-app-ios.css","slot":"my-ios-slot1"},
+    {"path": "css/my-app.css","slot":"my-ios-slot1"},
     {"path": "framework7/dist/js/framework7.js"},
     "require: ../../components/comp-button",
     "lib/f7/js/*.js",
     "lib/f7/images/*",
-    "js/*",
-    "css/*"
+    "js/*"
   ]
 }
