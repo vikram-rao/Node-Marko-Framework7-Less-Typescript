@@ -13,11 +13,11 @@
       "name": "framework7IOSCSS",
       "dependencies": [
         {
-          "path": "src/pages/home/lib/f7/css/framework7.ios.css",
+          "path": "framework7/dist/css/framework7.ios.css",
           "slot": "ios-slot1"
         },
         {
-          "path": "src/pages/home/lib/f7/css/framework7.ios.colors.css",
+          "path": "framework7/dist/css/framework7.ios.colors.css",
           "slot": "ios-slot1"
         }
       ]
@@ -26,11 +26,11 @@
       "name": "framework7MaterialCSS",
       "dependencies": [
         {
-          "path": "src/pages/home/lib/f7/css/framework7.material.css",
+          "path": "framework7/dist/css/framework7.material.css",
           "slot": "material-slot1"
         },
         {
-          "path": "src/pages/home/lib/f7/css/framework7.material.colors.css",
+          "path": "framework7/dist/css/framework7.material.colors.css",
           "slot": "material-slot1"
         }
       ]

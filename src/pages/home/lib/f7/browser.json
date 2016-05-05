@@ -1,7 +1,0 @@
-{
-  "dependencies": [
-    "js/*.js",
-    "css/*.css",
-    "images/*"
-  ]
-}
