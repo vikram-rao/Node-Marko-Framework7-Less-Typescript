@@ -1,0 +1,13 @@
+{
+  "name": "markojstest3",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.13.4",
+    "framework7": "^1.4.2",
+    "lasso": "^2.2.2",
+    "lasso-marko": "^2.0.7",
+    "marko": "^3.1.7",
+    "marko-widgets": "^6.1.0",
+    "serve-static": "^1.10.2"
+  }
+}

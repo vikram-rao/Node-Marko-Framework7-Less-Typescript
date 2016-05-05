@@ -1,0 +1,14 @@
+{
+  "dependencies": [
+    "require: marko-widgets",
+    {"path": "./lib/f7/css/framework7.ios.css", "slot": "ios-slot1"},
+    {"path": "./lib/f7/css/framework7.ios.colors.css","slot":"ios-slot1"},
+    {"path": "./lib/f7/css/framework7.material.css","slot":"material-slot1"},
+    {"path": "./lib/f7/css/framework7.material.colors.css","slot":"material-slot1"},
+    "require: ../../components/comp-button",
+    "lib/f7/js/*.js",
+    "lib/f7/images/*",
+    "js/*",
+    "css/*"
+  ]
+}
