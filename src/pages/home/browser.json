@@ -12,7 +12,6 @@
     {"path": "css/my-app.css","slot":"my-ios-slot1"},
     {"path": "framework7/dist/js/framework7.js"},
     "require: ../../components/comp-button",
-    "lib/f7/js/*.js",
     "lib/f7/images/*",
     "js/*"
   ]
