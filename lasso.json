@@ -39,7 +39,7 @@
       "name": "AppIOSCSS",
       "dependencies": [
         {
-          "path": "src/pages/home/css/my-app-ios.css",
+          "path": "src/layout/css/my-app-ios.css",
           "slot": "my-ios-slot1"
         }
       ]
@@ -48,7 +48,7 @@
       "name": "AppMaterialCSS",
       "dependencies": [
         {
-          "path": "src/pages/home/css/my-app-android.css",
+          "path": "src/layout/css/my-app-android.css",
           "slot": "my-material-slot1"
         }
       ]

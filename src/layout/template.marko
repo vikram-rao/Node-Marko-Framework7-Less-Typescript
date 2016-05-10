@@ -1,0 +1,26 @@
+<lasso-page name="my-page" package-path="./browser.json"/>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <lasso-slot name="ios-slot1" external-style-attrs={'device-type': 'ios1'}/>
+    <lasso-slot name="material-slot1" external-style-attrs={'device-type': 'material1'}/>
+    <lasso-slot name="my-material-slot1" external-style-attrs={'device-type': 'material1'}/>
+    <lasso-slot name="my-ios-slot1" external-style-attrs={'device-type': 'ios1'}/>
+    <lasso-head/>
+</head>
+<body>
+<div class="panel-overlay"></div>
+<div class="panel panel-left panel-reveal">
+    <div class="content-block">
+        <p>Left panel content goes here</p>
+    </div>
+</div>
+<layout-placeholder name="yield"/>
+<init-widgets />
+<lasso-body />
+</body>
+</html>
