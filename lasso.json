@@ -1,6 +1,6 @@
 {
   "plugins": [
-    "lasso-marko"
+    "lasso-marko","lasso-less"
   ],
   "outputDir": "build/static/",
   "fingerprintsEnabled": false,
@@ -39,7 +39,7 @@
       "name": "AppIOSCSS",
       "dependencies": [
         {
-          "path": "src/layout/css/my-app-ios.css",
+          "path": "src/layout/css/my-app-ios.less",
           "slot": "my-ios-slot1"
         }
       ]
@@ -48,7 +48,7 @@
       "name": "AppMaterialCSS",
       "dependencies": [
         {
-          "path": "src/layout/css/my-app-android.css",
+          "path": "src/layout/css/my-app-android.less",
           "slot": "my-material-slot1"
         }
       ]
