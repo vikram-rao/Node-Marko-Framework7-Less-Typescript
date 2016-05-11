@@ -1,6 +1,10 @@
 /**
  * Created by vikram on 29/04/16.
  */
+// require('framework7')
+declare var Dom7:any
+declare var Framework7:any
+
 var isAndroid = Framework7.prototype.device.android === true;
 var isIos = Framework7.prototype.device.ios === true;
 

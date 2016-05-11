@@ -1,5 +1,5 @@
 typings/
-*.marko.js
+*.js
 build
 static
 node_modules
