@@ -6,10 +6,9 @@
     {"path": "framework7/dist/css/framework7.ios.colors.css","slot":"ios-slot1"},
     {"path": "framework7/dist/css/framework7.material.css","slot":"material-slot1"},
     {"path": "framework7/dist/css/framework7.material.colors.css","slot":"material-slot1"},
-    {"path": "./css/my-app-android.less","slot":"my-material-slot1"},
-    {"path": "./css/my-app.less","slot":"my-material-slot1"},
-    {"path": "./css/my-app-ios.less","slot":"my-ios-slot1"},
-    {"path": "./css/my-app.less","slot":"my-ios-slot1"},
+    {"path": "./css/layout-android.less","slot":"my-material-slot1"},
+    {"path": "./css/layout-ios.less","slot":"my-ios-slot1"},
+    "./css/layout.less",
     {"path": "framework7/dist/js/framework7.js"},
     {"path": "./js/init.js"}
   ]
